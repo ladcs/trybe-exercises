@@ -7,3 +7,12 @@ git checkout 'nome' vai pro branch nome, para ir diretamente para uma branch nov
 git merge 'nome', deve ser usado na branch master e faz merge com a branch nome
 git log, mostram as commits
 depois de um commit criado, adiciona a modificação e então da git push.
+para ignorar com .gitignore no gi status, basta apenas adicionar a in na pasta escondita .gitignore
+importante tirar coisas do vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+caso haja algum outro programa em uso usar o site www.toptal.com/developers/gitignore
