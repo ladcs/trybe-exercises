@@ -16,3 +16,5 @@ importante tirar coisas do vscode
 !.vscode/extensions.json
 *.code-workspace
 caso haja algum outro programa em uso usar o site www.toptal.com/developers/gitignore
+git pull puxa do repositório remoto a atualiza.
+git fetch compara os 2 repositórios.
