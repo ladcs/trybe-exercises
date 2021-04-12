@@ -1,6 +1,8 @@
-o que eu vou aprender na trybe:
+O que eu vou aprender na Trybe
 
-- Unix
-- Bash
-- Git
-SQL
+-Unix
+-Bash
+-Git
+-HTML
+-CSS
+-SQL
